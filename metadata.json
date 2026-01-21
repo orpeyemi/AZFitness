@@ -1,0 +1,7 @@
+{
+  "name": "AZ Fitness Gym",
+  "description": "A high-performance gym management and fitness tracking platform featuring real-time analytics, member workout logging, and administrative oversight with a sleek charcoal-neon aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
